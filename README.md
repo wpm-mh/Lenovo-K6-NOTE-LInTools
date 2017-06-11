@@ -2,7 +2,7 @@
 
 # QUICK START
 
-Before use this script make sure that you installed dialog and android-tools, without that repos, scipt dosn't work!
+Before use this script make sure that you installed dialog and android-tools, without that packages, script doesn't work!
 
 # HOW TO USE
 
