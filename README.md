@@ -1,4 +1,11 @@
-# Lenovo K6 NOTE Bootloader unlock script by Marcel 'WPMaster' Halczyński (C)
+# Lenovo K6 NOTE Linux Tools by Marcel 'WPMaster' Halczyński (C)
+
+# WHAT YOU CAN DO
+
+With this script you can:
+
+* Unlock Bootloader
+* Install custom recovery (TWRP)
 
 # QUICK START
 
@@ -15,6 +22,10 @@ That script is VERY simply, so you don't have a special knowledge ;)
 * Check the bootloader status
 * Unlock
 * AND HAVE FUN :D
+
+# INSTALL TWRP
+
+To install TWRP, please, unzip archive "recovery.zip" and to script folder
 
 # PLEASE, DON'T EDIT OR SHERE THE SCRIPT WITHOUT MY PERMISSION
 # WPMASTER 2017 (C) ALL RIGHTS RESEVED 
