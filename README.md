@@ -16,8 +16,8 @@ Before use this script make sure that you installed dialog and android-tools, wi
 That script is VERY simply, so you don't have a special knowledge ;)
 
 * Turn ON the debuging in developer settings and connect the device
-* chmod the scipt (sudo chmod +x script_directory.sh)
-* Run the script (./bl-unlock.sh)
+* chmod the scipt (sudo chmod +x script_name.sh)
+* Run the script (./script_name.sh)
 * Reboot into bootloader
 * Check the bootloader status
 * Unlock
@@ -25,7 +25,7 @@ That script is VERY simply, so you don't have a special knowledge ;)
 
 # INSTALL TWRP
 
-To install TWRP, please, unzip archive "recovery.zip" and to script folder
+To install TWRP, please, unzip archive "recovery.zip" to script folder
 
 # PLEASE, DON'T EDIT OR SHERE THE SCRIPT WITHOUT MY PERMISSION
 # WPMASTER 2017 (C) ALL RIGHTS RESEVED 
