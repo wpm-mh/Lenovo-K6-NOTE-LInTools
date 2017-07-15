@@ -5,7 +5,7 @@
 With this script you can:
 
 * Unlock Bootloader
-* Install custom recovery (TWRP)
+* Install Team Win Recovery
 
 # QUICK START
 
@@ -13,10 +13,10 @@ Before use this script make sure that you installed dialog and android-tools, wi
 
 # HOW TO USE
 
-That script is VERY simply, so you don't have a special knowledge ;)
+That script is VERY simple, so you don't need special knowledge ;)
 
 * Turn ON the debuging in developer settings and connect the device
-* chmod the scipt (sudo chmod +x script_directory.sh)
+* chmod the scipt (sudo chmod +x bl-unlock.sh)
 * Run the script (./bl-unlock.sh)
 * Reboot into bootloader
 * Check the bootloader status
@@ -25,7 +25,7 @@ That script is VERY simply, so you don't have a special knowledge ;)
 
 # INSTALL TWRP
 
-To install TWRP, please, unzip archive "recovery.zip" and to script folder
+To install TWRP, please, unzip "recovery.zip" archive and move to same folder as script
 
-# PLEASE, DON'T EDIT OR SHERE THE SCRIPT WITHOUT MY PERMISSION
+# PLEASE, DON'T EDIT OR SHARE THE SCRIPT WITHOUT MY PERMISSION
 # WPMASTER 2017 (C) ALL RIGHTS RESEVED 
